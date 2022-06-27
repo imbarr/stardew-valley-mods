@@ -1,0 +1,9 @@
+﻿{
+	"Name": "Imbar's Random Bundles",
+	"Author": "Imbar",
+	"Version": "1.0.0",
+	"Description": "Adds randomized bundles to the game",
+	"UniqueID": "Imbar.RandomBundles",
+	"EntryDll": "RandomBundles.dll",
+	"MinimumApiVersion": "3.0.0"
+}

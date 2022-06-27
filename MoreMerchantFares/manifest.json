@@ -1,0 +1,14 @@
+{
+    "Name": "Imbar's more merchant fares",
+    "Author": "Imbar",
+    "Version": "1.0.0",
+    "Description": "Merchants sell more goods",
+    "UniqueID": "Imbar.MoreMerchantFares",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+	
+    "ContentPackFor": {
+		"UniqueID": "Cherry.ShopTileFramework",
+		"MinimumVersion": "1.0.9"
+	}
+}

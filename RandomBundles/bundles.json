@@ -1,0 +1,314 @@
+﻿[
+	{
+		"AreaName": "Crafts Room",
+		"Keys": "13 14 15 16 17 19",
+		"Bundles": [
+			{
+				"Name": "Spring Foraging",
+				"Items": "1 Wild Horseradish, 1 Dandelion, 1 Daffodil, 1 Leek, 1 Spring Onion, 5 Salmonberry",
+				"RequiredItems": -1,
+				"Reward": "30 Kale Seeds"
+			},
+			{
+				"Name": "Summer Foraging",
+				"Items": "1 Grape, 1 Spice Berry, 1 Sweet Pea, 1 Fiddlehead Fern",
+				"RequiredItems": -1,
+				"Reward": "50 Radish Seeds"
+			},
+			{
+				"Name": "Fall Foraging",
+				"Items": "1 Wild Plum, 1 Hazelnut, 5 Blackberry",
+				"RequiredItems": -1,
+				"Reward": "30 Amaranth Seeds"
+			},
+			{
+				"Name": "Winter Foraging",
+				"Items": "1 Winter Root, 1 Crystal Fruit, 1 Snow Yam, 1 Crocus, 1 Holly",
+				"RequiredItems": -1,
+				"Reward": "30 Winter Seeds"
+			},
+			{
+				"Name": "Roots Foraging",
+				"Items": "1 Wild Horseradish, 1 Leek, 1 Snow Yam, 1 Cave Carrot, 1 Winter Root",
+				"RequiredItems": -1,
+				"Reward": "10 GQ Potato"
+			},
+			{
+				"Name": "Flowers Foraging",
+				"Items": "1 Crocus, 1 Holly, 1 Daffodil, 1 Sweet Pea",
+				"RequiredItems": -1,
+				"Reward": "10 GQ Daffodil"
+			},
+			{
+				"Name": "Mushroom Foraging",
+				"Items": "1 Common Mushroom, 1 Red Mushroom, 1 Chanterelle, 1 Morel, 1 Purple Mushroom",
+				"RequiredItems": -1,
+				"Reward": "20 Gold Ore"
+			},
+			{
+				"Name": "Woodcutter",
+				"Items": "99 Wood, 20 Hardwood, 99 Sap, 20 Acorn, 20 Maple Seed, 20 Pine Cone",
+				"RequiredItems": -1,
+				"Reward": "3 Tapper"
+			},
+			{
+				"Name": "Tapper",
+				"Items": "1 Maple Syrup, 1 Pine Tar, 1 Oak Resin",
+				"RequiredItems": -1,
+				"Reward": "200 Wood"
+			}
+		]
+	},
+	{
+		"AreaName": "Pantry",
+		"Keys": "0 1 2 3 4 5",
+		"Bundles": [
+			{
+				"Name": "Spring Crops",
+				"Items": "5 Cauliflower, 5 Green Bean, 5 Kale, 5 Parsnip, 5 Potato",
+				"RequiredItems": -1,
+				"Reward": "3 Preserves Jar"
+			},
+			{
+				"Name": "Summer Crops",
+				"Items": "5 Blueberry, 5 Corn, 5 Hops, 5 Hot Pepper, 5 Melon, 5 Radish",
+				"RequiredItems": -1,
+				"Reward": "3 Bee House"
+			},
+			{
+				"Name": "Fall Crops",
+				"Items": "5 Amaranth, 5 Bok Choy, 5 Cranberries, 5 Eggplant, 5 Pumpkin",
+				"RequiredItems": -1,
+				"Reward": "3 Keg"
+			},
+			{
+				"Name": "Winter Crops",
+				"Items": "5 Winter Root, 5 Crystal Fruit, 5 Snow Yam, 5 Crocus",
+				"RequiredItems": -1,
+				"Reward": "3 Quality Sprinkler"
+			},
+			{
+				"Name": "Roots",
+				"Items": "5 Parsnip, 5 Potato, 5 Radish, 5 Yam",
+				"RequiredItems": -1,
+				"Reward": "1 Peach Sapling"
+			},
+			{
+				"Name": "Flowers",
+				"Items": "1 Blue Jazz, 1 Tulip, 1 Poppy, 1 Summer Spangle, 1 Sunflower, 1 Fairy Rose",
+				"RequiredItems": -1,
+				"Reward": "2 Apple Sapling"
+			},
+			{
+				"Name": "Coop",
+				"Items": "1 174, 1 182, 1 Duck Egg, 1  Duck Feather, 1 Rabbit's Foot, 1 Mayonnaise, 1 Duck Mayonnaise",
+				"RequiredItems": -1,
+				"Reward": "5 GQ Truffle"
+			},
+			{
+				"Name": "Barn",
+				"Items": "1 Large Milk, 1 L. Goat Milk, 1 Wool, 1 Truffle, 1 Cloth, 1 GQ Cheese, 1 GQ Goat Cheese, 1 Truffle Oil",
+				"RequiredItems": -1,
+				"Reward": "5 Rabbit's Foot"
+			},
+			{
+				"Name": "Fruit Tree",
+				"Items": "3 Apple, 3 Apricot, 3 Orange, 3 Peach, 3 Pomegranate, 3 Cherry",
+				"RequiredItems": -1,
+				"Reward": "10 Cloth"
+			},
+			{
+				"Name": "Artisan",
+				"Items": "1 Honey, 1 Jelly, 1 Juice, 1 Tea, 1 Pickles",
+				"RequiredItems": -1,
+				"Reward": "3 Lightning Rod"
+			},
+			{
+				"Name": "Alcohol",
+				"Items": "1 Beer, 1 Wine, 1 Pale Ale, 1 Mead",
+				"RequiredItems": -1,
+				"Reward": "15 Life Elixir"
+			}
+		]
+	},
+	{
+		"AreaName": "Fish Tank",
+		"Keys": "6 7 8 9 10 11",
+		"Bundles": [
+			{
+				"Name": "Summer Fishing",
+				"Items": "1 Pufferfish, 1 Rainbow Trout, 1 Red Mullet, 1 Octopus, 1 Dorado",
+				"RequiredItems": -1,
+				"Reward": "3 Mayonnaise Machine"
+			},
+			{
+				"Name": "Winter Fishing",
+				"Items": "1 Perch, 1 Pike, 1 Squid, 1 Tiger Trout, 1 Lingcod, 1 Albacore",
+				"RequiredItems": -1,
+				"Reward": "5 Coffee Bean"
+			},
+			{
+				"Name": "Rain Fishing",
+				"Items": "1 Walleye, 1 Catfish, 1 Eel, 1 Red Snapper, 1 Shad",
+				"RequiredItems": -1,
+				"Reward": "5 Seed Maker"
+			},
+			{
+				"Name": "Night Market Fishing",
+				"Items": "1 Midnight Squid, 1 Spook Fish, 1 Blobfish",
+				"RequiredItems": -1,
+				"Reward": "1 Void Egg"
+			},
+			{
+				"Name": "Speciality Fishing",
+				"Items": "1 Sea Cucumber, 1 Super Cucumber, 1 Woodskip, 5 Green Algae, 5 Seaweed, 1 Sandfish, 1 Scorpion Carp",
+				"RequiredItems": -1,
+				"Reward": "5 Recycling Machine"
+			},
+			{
+				"Name": "Mines Fishing",
+				"Items": "1 Ghostfish, 1 Stonefish, 1 Ice Pip, 1 Lava Eel, 1 White Algae",
+				"RequiredItems": -1,
+				"Reward": "25 Staircase"
+			},
+			{
+				"Name": "Freshwater Fishing",
+				"Items": "1 Smallmouth Bass, 1 Largemouth Bass, 1 Salmon, 1 Midnight Carp, 1 Bream",
+				"RequiredItems": -1,
+				"Reward": "5 Rain Totem"
+			},
+			{
+				"Name": "Quality Fishing",
+				"Items": "1 IQ Herring, 1 IQ Anchovy, 1 IQ Carp, 1 IQ Sunfish, 1 IQ Chub",
+				"RequiredItems": -1,
+				"Reward": "50 Hardwood"
+			},
+			{
+				"Name": "Fish Farmer",
+				"Items": "5 Roe, 5 Aged Roe, 1 Squid Ink, 1 Caviar",
+				"RequiredItems": -1,
+				"Reward": "3 Cheese Press"
+			},
+			{
+				"Name": "Sea Forage",
+				"Items": "1 Clam, 1 Sea Urchin, 1 Coral, 1 Cockle, 1 Mussel, 1 Rainbow Shell, 1 Nautilus Shell",
+				"RequiredItems": 6,
+				"Reward": "10 Crab Pot"
+			}
+		]
+	},
+	{
+		"AreaName": "Boiler Room",
+		"Keys": "20 21 22",
+		"Bundles": [
+			{
+				"Name": "Geode",
+				"Items": "3 Geode, 3 Frozen Geode, 3 Magma Geode, 3 Omni Geode",
+				"RequiredItems": -1,
+				"Reward": "10 Artifact Trove"
+			},
+			{
+				"Name": "Adventurer",
+				"Items": "99 Slime, 10 Bat Wing, 3 Solar Essence, 3 Void Essence, 20 Bug Meat, 20 Bone",
+				"RequiredItems": -1,
+				"Reward": "5 Charcoal Kiln"
+			},
+			{
+				"Name": "Treasure Hunter",
+				"Items": "1 Emerald, 1 Aquamarine, 1 Ruby, 1 Amethyst, 1 Topaz, 1 Jade, 1 Diamond",
+				"RequiredItems": -1,
+				"Reward": "20 Omni Geode"
+			},
+			{
+				"Name": "Blacksmith",
+				"Items": "10 Copper Bar, 5 Iron Bar, 5 Gold Bar, 10 Refined Quartz, 10 Coal",
+				"RequiredItems": -1,
+				"Reward": "1 Pomegranate Sappling"
+			},
+			{
+				"Name": "Forage",
+				"Items": "5 Quartz, 2 Earth Crystal, 3 Frozen Tear, 1 Fire Quartz",
+				"RequiredItems": -1,
+				"Reward": "5 Gold Bar"
+			}
+		]
+	},
+	{
+		"AreaName": "Bulletin Board",
+		"Keys": "31 32 33 34 35",
+		"Bundles": [
+			{
+				"Name": "Engineer",
+				"Items": "3 Battery Pack, 3 Diamond, 1 Fire Quartz, 20 Gold Ore, 1 Iridium Ore",
+				"RequiredItems": -1,
+				"Reward": "1 Farm Computer"
+			},
+			{
+				"Name": "Poet",
+				"Items": "1 Duck Feather, 1 Squid Ink, 1 Lobster, 1 Pomegranate",
+				"RequiredItems": -1,
+				"Reward": "1 Pearl"
+			},
+			{
+				"Name": "Soldier",
+				"Items": "5 Cherry Bomb, 3 Bomb, 1 Mega Bomb, 3 Hazelnut, 1 Pancakes, 1 Cactus Fruit, 1 Snail",
+				"RequiredItems": -1,
+				"Reward": "1 Treasure Chest"
+			},
+			{
+				"Name": "Fisherman",
+				"Items": "1 Tuna, 1 Octopus, 1 Squid, 1 Mead, 1 Dressed Spinner, 1 Curiosity Lure, 1 Treasure Hunter",
+				"RequiredItems": -1,
+				"Reward": "5 Seafoam Pudding"
+			},
+			{
+				"Name": "Chef",
+				"Items": "1 Maple Syrup, 1 Truffle Oil, 1 Omelet, 1 Bread, 1 Pizza, 1 Hashbrowns",
+				"RequiredItems": -1,
+				"Reward": "5 Qi Seasoning"
+			},
+			{
+				"Name": "Ancient",
+				"Items": "5 Jade, 3 Cave Carrot, 1 Void Mayonnaise, 10 Void Essence, 1 Ancient Fruit",
+				"RequiredItems": -1,
+				"Reward": "1 Prismatic Shard"
+			},
+			{
+				"Name": "Enchanter",
+				"Items": "1 L. Goat Milk, 5 Egg, 1 Rabbit's Foot, 10 Hay, 1 Wine",
+				"RequiredItems": -1,
+				"Reward": "1 Golden Pumpkin"
+			},
+			{
+				"Name": "Sculptor",
+				"Items": "1 Goat Cheese, 300 Wood, 10 Hardwood, 1 Truffle, 1 Holly, 1 Daffodil",
+				"RequiredItems": -1,
+				"Reward": "3 Rare Seed"
+			},
+			{
+				"Name": "Outcast",
+				"Items": "1 Cactus Fruit, 1 Coconut, 5 Blackberry, 5 Salmonberry, 1 Dish O' The Sea",
+				"RequiredItems": -1,
+				"Reward": "40 Wild Bait"
+			}
+		]
+	},
+	{
+		"AreaName": "Abandoned Joja Mart",
+		"Keys": "36",
+		"Bundles": [
+			{
+				"Name": "The Missing",
+				"Items": "5 IQ Wine, 5 Caviar, 3 Prismatic Shard, 5 GQ Apple, 1 GQ Sweet Gem Berry",
+				"RequiredItems": -1,
+				"Reward": ""
+			},
+			{
+				"Name": "The Missing",
+				"Items": "5 IQ Goat Cheese, 5 GQ Ancient Fruit, 5 Dinosaur Mayonnaise, 1 Pearl, 5 GQ Peach",
+				"RequiredItems": -1,
+				"Reward": ""
+			}
+		]
+	}
+]

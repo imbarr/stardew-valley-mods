@@ -1,0 +1,735 @@
+{
+	"VanillaShops": [
+		{
+			"ShopName": "DesertTrader",
+			"ItemStocks": [
+				{
+					"ItemType": "Boot",
+					"StockItemCurrency": "Slime",
+					"StockCurrencyStack": 100,
+					"StockPrice": 0,
+					"ItemNames": ["Rubber Boots"],
+					"When": ["!d Mon"]
+				},
+				{
+					"ItemType": "Boot",
+					"StockItemCurrency": "Earth Crystal",
+					"StockCurrencyStack": 10,
+					"StockPrice": 0,
+					"ItemNames": ["Work Boots"],
+					"When": ["!d Tue"]
+				},
+				{
+					"ItemType": "Boot",
+					"StockItemCurrency": "Gold Bar",
+					"StockCurrencyStack": 30,
+					"StockPrice": 0,
+					"ItemNames": ["Leprechaun Shoes"],
+					"When": ["!d Wed"]
+				},
+				{
+					"ItemType": "Boot",
+					"StockItemCurrency": "Iron Bar",
+					"StockCurrencyStack": 30,
+					"StockPrice": 0,
+					"ItemNames": ["Cowboy Boots"],
+					"When": ["!d Thu"]
+				},
+				{
+					"ItemType": "Clothing",
+					"StockItemCurrency": "Prismatic Shard",
+					"StockCurrencyStack": 2,
+					"StockPrice": 0,
+					"ItemIDs": [1223],
+					"When": ["!d Mon"]
+				},
+				{
+					"ItemType": "Clothing",
+					"StockItemCurrency": "Prismatic Shard",
+					"StockCurrencyStack": 2,
+					"StockPrice": 0,
+					"ItemIDs": [1998],
+					"When": ["!d Tue"]
+				},
+				{
+					"ItemType": "Clothing",
+					"StockItemCurrency": "Prismatic Shard",
+					"StockCurrencyStack": 2,
+					"StockPrice": 0,
+					"ItemIDs": [1999],
+					"When": ["!d Wed"]
+				},
+				{
+					"ItemType": "Clothing",
+					"StockItemCurrency": "Prismatic Shard",
+					"StockCurrencyStack": 2,
+					"StockPrice": 0,
+					"ItemIDs": [998],
+					"When": ["!d Thu"]
+				},
+				{
+					"ItemType": "Clothing",
+					"StockItemCurrency": "Prismatic Shard",
+					"StockCurrencyStack": 2,
+					"StockPrice": 0,
+					"ItemIDs": [999],
+					"When": ["!d Fri"]
+				},
+				{
+					"ItemType": "Weapon",
+					"StockItemCurrency": "Solar Essence",
+					"StockCurrencyStack": 30,
+					"StockPrice": 0,
+					"ItemNames": ["Holy Blade"],
+					"When": ["!d Fri"]
+				},
+				{
+					"ItemType": "Weapon",
+					"StockItemCurrency": "Iridium Bar",
+					"StockCurrencyStack": 30,
+					"StockPrice": 0,
+					"ItemNames": ["Galaxy Slingshot"],
+					"When": ["!d Sat"]
+				},
+				{
+					"ItemType": "Weapon",
+					"StockItemCurrency": "Pearl",
+					"StockCurrencyStack": 5,
+					"StockPrice": 0,
+					"ItemNames": ["Neptune's Glaive"],
+					"When": ["!d Sun"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"StockItemCurrency": "Diamond",
+					"StockCurrencyStack": 30,
+					"StockPrice": 0,
+					"ItemNames": ["Soda Machine"],
+					"When": ["!d Tue"]
+				},
+				{
+					"ItemType": "Hat",
+					"StockItemCurrency": "Fiber",
+					"StockCurrencyStack": 999,
+					"StockPrice": 0,
+					"ItemNames": ["Living Hat"],
+					"When": ["!d Fri"]
+				}
+			]
+		},
+		{
+			"ShopName": "PierreShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 1500,
+					"ItemNames": ["Wine"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 500,
+					"ItemNames": ["Honey"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"ItemNames": ["Mayonnaise"]
+				},
+			]
+		},
+		{
+			"ShopName": "RobinShop",
+			"AddStockAboveVanilla": true,
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"ItemNames": ["Hardwood"]
+				}
+			]
+		},
+		{
+			"ShopName": "ClintShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"ItemNames": ["Quartz"]
+				}
+			]
+		},
+		{
+			"ShopName": "MarlonShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Ring",
+					"StockPrice": 200,
+					"ItemNames": ["Small Glow Ring"]
+				},
+				{
+					"ItemType": "Ring",
+					"StockPrice": 200,
+					"ItemNames": ["Small Magnet Ring"]
+				},
+			]
+		},
+		{
+			"ShopName": "MarnieShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"ItemNames": ["Milk"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 500,
+					"ItemNames": ["Goat Milk"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"ItemIDs": [176]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"ItemIDs": [180]
+				}
+			]
+		},
+		{
+			"ShopName": "SandyShop",
+			"AddStockAboveVanilla": true,
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 150,
+					"ItemNames": ["Strawberry Seeds"]
+				}
+			]
+		},
+		{
+			"ShopName": "KrobusShop",
+			"MaxNumItemsSoldInStore": 3,
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 37,
+					"ItemNames": ["Jazz Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"ItemNames": ["Cauliflower Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 50,
+					"ItemNames": ["Garlic Seeds"],
+					"When": ["y 2"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 75,
+					"ItemNames": ["Bean Starter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 87,
+					"ItemNames": ["Kale Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 25,
+					"ItemNames": ["Parsnip Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 62,
+					"ItemNames": ["Potato Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 120,
+					"ItemNames": ["Rhubarb Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 120,
+					"ItemNames": ["Strawberry Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 25,
+					"ItemNames": ["Tulip Bulb"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 50,
+					"ItemNames": ["Rice Shoot"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"ItemNames": ["Blueberry Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 187,
+					"ItemNames": ["Corn Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 75,
+					"ItemNames": ["Hops Starter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 50,
+					"ItemNames": ["Pepper Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"ItemNames": ["Melon Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 125,
+					"ItemNames": ["Poppy Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 50,
+					"ItemNames": ["Radish Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 120,
+					"ItemNames": ["Red Cabbage Seeds"],
+					"When": ["y 2"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 500,
+					"ItemNames": ["Starfruit Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 62,
+					"ItemNames": ["Spangle Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 125,
+					"ItemNames": ["Sunflower Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 62,
+					"ItemNames": ["Tomato Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 12,
+					"ItemNames": ["Wheat Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 87,
+					"ItemNames": ["Amaranth Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 40,
+					"ItemNames": ["Artichoke Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 30,
+					"ItemNames": ["Beet Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 62,
+					"ItemNames": ["Bok Choy Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"ItemNames": ["Cranberry Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 25,
+					"ItemNames": ["Eggplant Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 250,
+					"ItemNames": ["Fairy Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 75,
+					"ItemNames": ["Grape Starter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 125,
+					"ItemNames": ["Pumpkin Seeds"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 75,
+					"ItemNames": ["Yam Seeds"]
+				}
+			]
+		},
+		{
+			"ShopName": "DwarfShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 2000,
+					"ItemNames": ["Dwarvish Helm"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 10000,
+					"ItemNames": ["Dwarf Gadget"]
+				}
+			]
+		},
+		{
+			"ShopName": "GusShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 800,
+					"ItemNames": ["Pale Ale"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 550,
+					"ItemNames": ["Mead"]
+				}
+			]
+		},
+		{
+			"ShopName": "WillyShop",
+			"AddStockAboveVanilla": true,
+			"MaxNumItemsSoldInStore": 2,
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"Stock": 5,
+					"ItemNames": ["Anchovy"],
+					"When": ["!z spring", "!z fall"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 300,
+					"Stock": 5,
+					"ItemNames": ["Tuna"],
+					"When": ["!z summer", "!z winter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 120,
+					"Stock": 5,
+					"ItemNames": ["Sardine"],
+					"When": ["!z spring", "!z fall", "!z winter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 150,
+					"Stock": 5,
+					"ItemNames": ["Smallmouth Bass"],
+					"When": ["!z spring", "!z fall"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 240,
+					"Stock": 5,
+					"ItemNames": ["Salmon"],
+					"When": ["!z fall"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 160,
+					"Stock": 5,
+					"ItemNames": ["Perch"],
+					"When": ["!z winter"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"Stock": 5,
+					"ItemNames": ["Carp"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"Stock": 5,
+					"ItemNames": ["Sunfish"],
+					"When": ["!z spring", "!z summer"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 240,
+					"Stock": 5,
+					"ItemNames": ["Red Mullet"],
+					"When": ["!z winter", "!z summer"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 100,
+					"Stock": 5,
+					"ItemNames": ["Herring"],
+					"When": ["!z winter", "!z spring"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 150,
+					"Stock": 5,
+					"ItemNames": ["Chub"]
+				},
+			]
+		},
+		{
+			"ShopName": "QiShop",
+			"MaxNumItemsSoldInStore": 1,
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": 500,
+					"ItemNames": ["Warp Totem: Mountains"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 500,
+					"ItemNames": ["Warp Totem: Beach"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 3000,
+					"ItemNames": ["Warp Totem: Desert"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 3000,
+					"ItemNames": ["Warp Totem: Desert"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Tigerseye"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Opal"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Fire Opal"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Alamite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Bixite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Baryte"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Aerinite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Calcite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Dolomite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Esperite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Fluorapatite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Geminite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Helvite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Jamborite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Jagoite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Kyanite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Lunarite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Malachite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Neptunite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Lemon Stone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Nekoite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Orpiment"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Petrified Slime"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Thunder Egg"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Pyrite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Ocean Stone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Ghost Crystal"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Jasper"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Celestine"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Marble"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Sandstone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Granite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Basalt"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Limestone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Soapstone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Hematite"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Mudstone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Obsidian"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Slate"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Fairy Stone"]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": 5000,
+					"ItemNames": ["Star Shards"]
+				}
+			]
+		},
+	]			
+}
+					
