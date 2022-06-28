@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Imbar's Balanced Animal Produce",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Goats and ducks produce every day",
+  "UniqueID": "Imbar.BalancedAnimalProduce",
+  "MinimumApiVersion": "3.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
