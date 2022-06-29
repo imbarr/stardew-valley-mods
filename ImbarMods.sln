@@ -5,7 +5,13 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomBundles", "RandomBundles\RandomBundles.csproj", "{CFAEE1DB-B56A-4413-8E01-E30591E8B5C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlockedBundles", "UnlockedBundles\UnlockedBundles.csproj", "{3917B143-214B-4DEC-B133-722D31A7048C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnlockedBundles", "UnlockedBundles\UnlockedBundles.csproj", "{3917B143-214B-4DEC-B133-722D31A7048C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutdoorPlacementFix", "OutdoorPlacementFix\OutdoorPlacementFix.csproj", "{72CE1A1B-A7C2-4A7D-842D-CECD3D1ED630}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StardropIncreaseHealth", "StardropIncreaseHealth\StardropIncreaseHealth.csproj", "{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishPondQuality", "FishPondQuality\FishPondQuality.csproj", "{3C74EFB8-1377-4667-94E8-4EC8928AC795}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{3917B143-214B-4DEC-B133-722D31A7048C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3917B143-214B-4DEC-B133-722D31A7048C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3917B143-214B-4DEC-B133-722D31A7048C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CE1A1B-A7C2-4A7D-842D-CECD3D1ED630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CE1A1B-A7C2-4A7D-842D-CECD3D1ED630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CE1A1B-A7C2-4A7D-842D-CECD3D1ED630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CE1A1B-A7C2-4A7D-842D-CECD3D1ED630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

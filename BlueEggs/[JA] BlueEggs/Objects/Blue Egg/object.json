@@ -1,0 +1,10 @@
+{
+    "Name": "Blue Egg",
+    "Description": "A regular blue chicken egg.",
+    "Category": "Egg",
+    "Edibility": 25,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+	"ContextTags": ["color_blue", "egg_item"]
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Imbar's Fish Pond Quality",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Ponds remember fish quality",
+  "UniqueID": "Imbar.FishPondQuality",
+  "EntryDll": "FishPondQuality.dll",
+  "MinimumApiVersion": "3.0.0"
+}

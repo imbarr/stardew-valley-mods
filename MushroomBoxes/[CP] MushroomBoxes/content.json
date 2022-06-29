@@ -1,0 +1,17 @@
+{
+	"Format": "1.27.0",
+    "Changes": [
+        {
+        "Action": "EditData",
+        "Target": "Data/CraftingRecipes",
+        "Entries":  {
+				"Mushroom Box": "388 50 709 1 335 2/Home/128/true/Farming 3",
+            },
+        },
+		{
+		"Action": "EditData",
+		"Target": "Data/BigCraftablesInformation",
+		"Fields":  { "128": { 4: "Mushrooms grow every day. Can only be placed indoors", 5: "false", 7: "0" }	},
+		}
+	]
+}

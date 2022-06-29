@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Imbar's Stardrop Increase Health",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Max health increased by 5 when eating stardrop",
+  "UniqueID": "Imbar.StardropIncreaseHealth",
+  "EntryDll": "StardropIncreaseHealth.dll",
+  "MinimumApiVersion": "3.0.0"
+}

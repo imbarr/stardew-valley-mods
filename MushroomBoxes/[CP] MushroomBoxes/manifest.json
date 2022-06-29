@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Imbar's Mushroom Boxes",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Craftable mushroom boxes",
+  "UniqueID": "Imbar.MushroomBoxes",
+  "MinimumApiVersion": "3.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+	{
+	  "UniqueID": "Imbar.OutdoorPlacementFix",
+	}
+  ]
+}

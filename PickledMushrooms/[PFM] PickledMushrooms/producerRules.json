@@ -1,0 +1,58 @@
+[
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "Common Mushroom",
+        "InputStack": 1,
+        "MinutesUntilReady": 4000,
+        "OutputIdentifier": 342,
+		"PreserveType": "Pickle",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 50,
+		"OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "Purple Mushroom",
+        "InputStack": 1,
+        "MinutesUntilReady": 4000,
+        "OutputIdentifier": 342,
+		"PreserveType": "Pickle",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 50,
+		"OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "Chanterelle",
+        "InputStack": 1,
+        "MinutesUntilReady": 4000,
+        "OutputIdentifier": 342,
+		"PreserveType": "Pickle",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 50,
+		"OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "Morel",
+        "InputStack": 1,
+        "MinutesUntilReady": 4000,
+        "OutputIdentifier": 342,
+		"PreserveType": "Pickle",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 50,
+		"OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"]
+    },
+	{
+        "ProducerName": "Preserves Jar",
+        "InputIdentifier": "Red Mushroom",
+        "InputStack": 1,
+        "MinutesUntilReady": 4000,
+        "OutputIdentifier": "Pickled Red Mushroom",
+        "Sounds": ["Ship"]
+    }
+]

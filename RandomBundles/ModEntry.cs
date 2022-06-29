@@ -14,15 +14,23 @@ namespace RandomBundles
 
         private string[] colors = new string[] { "Red", "Blue", "Green", "Orange", "Purple", "Teal", "Yellow" };
 
+        private static string modDataKey = "Imbar.RandomBundles";
+
         public override void Entry(IModHelper helper)
         {
             ModHelper = helper;
-            helper.Events.GameLoop.SaveCreated += GameLoop_SaveCreated;
+            helper.Events.GameLoop.SaveLoaded += GameLoop_SaveLoaded;
             helper.Content.AssetLoaders.Add(new BundleDataLoader());
         }
 
-        private void GameLoop_SaveCreated(object sender, SaveCreatedEventArgs e)
+        private void GameLoop_SaveLoaded(object sender, SaveLoadedEventArgs e)
         {
+            var data = ModHelper.Data.ReadSaveData<ModData>(modDataKey);
+            if (data != null)
+            {
+                return; 
+            }
+
             var bundleData = Helper.Data.ReadJsonFile<BundleData[]>("bundles.json");
             var bundleDataApi = RandomizeBundles(bundleData);
 
@@ -34,6 +42,8 @@ namespace RandomBundles
 
             var path = Path.Combine(ModEntry.ModHelper.DirectoryPath, "apiBundles.json");
             File.Delete(path);
+
+            ModHelper.Data.WriteSaveData(modDataKey, new ModData());
         }
 
         private BundleDataApi[] RandomizeBundles(BundleData[] bundles)

@@ -1,0 +1,11 @@
+﻿{
+  "Name": "[JA] Imbar's Blue Eggs",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Blue chickens produce blue eggs",
+  "UniqueID": "Imbar.BlueEggsJA",
+  "MinimumApiVersion": "3.0.0",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}

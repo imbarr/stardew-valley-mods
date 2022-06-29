@@ -1,0 +1,11 @@
+﻿{
+  "Name": "[PFM] Imbar's Pickled Mushrooms",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Preserves jar for mushrooms",
+  "UniqueID": "Imbar.PickledMushroomsPFM",
+  "MinimumApiVersion": "3.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Digus.ProducerFrameworkMod"
+  }
+}

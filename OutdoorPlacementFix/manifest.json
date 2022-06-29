@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Imbar's Outdoor Placement Fix",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Forbids placing certain objects outdoors",
+  "UniqueID": "Imbar.OutdoorPlacementFix",
+  "EntryDll": "OutdoorPlacementFix.dll",
+  "MinimumApiVersion": "3.0.0"
+}
