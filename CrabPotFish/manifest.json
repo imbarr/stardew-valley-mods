@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Imbar's Crab Pot Fish",
+  "Author": "Imbar",
+  "Version": "1.0.0",
+  "Description": "Small chance to get fish in crab pots",
+  "UniqueID": "Imbar.CrabPotFish",
+  "EntryDll": "CrabPotFish.dll",
+  "MinimumApiVersion": "3.0.0"
+}

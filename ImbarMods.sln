@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutdoorPlacementFix", "Outd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StardropIncreaseHealth", "StardropIncreaseHealth\StardropIncreaseHealth.csproj", "{73FB26AA-A1BF-4389-BD4D-D9B936F0398F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishPondQuality", "FishPondQuality\FishPondQuality.csproj", "{3C74EFB8-1377-4667-94E8-4EC8928AC795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishPondQuality", "FishPondQuality\FishPondQuality.csproj", "{3C74EFB8-1377-4667-94E8-4EC8928AC795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrabPotFish", "CrabPotFish\CrabPotFish.csproj", "{6D0EE375-1AFD-4129-B760-C543F6A38059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityCrabPot", "QualityCrabPot\QualityCrabPot.csproj", "{F243ED6A-AA02-44CD-864E-33F67578F91C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C74EFB8-1377-4667-94E8-4EC8928AC795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0EE375-1AFD-4129-B760-C543F6A38059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0EE375-1AFD-4129-B760-C543F6A38059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0EE375-1AFD-4129-B760-C543F6A38059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0EE375-1AFD-4129-B760-C543F6A38059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F243ED6A-AA02-44CD-864E-33F67578F91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F243ED6A-AA02-44CD-864E-33F67578F91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F243ED6A-AA02-44CD-864E-33F67578F91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F243ED6A-AA02-44CD-864E-33F67578F91C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

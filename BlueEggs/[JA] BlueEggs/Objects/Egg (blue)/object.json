@@ -1,0 +1,16 @@
+{
+    "Name": "Egg (blue)",
+    "Description": "A regular blue chicken egg.",
+    "Category": "Egg",
+    "Edibility": 10,
+    "Price": 50,
+    "Recipe": null,
+	"GiftTastes": {
+		"Love": [],
+        "Like": ["Alex", "Demetrius", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Pierre", "Sam", "Shane"],
+        "Neutral": ["Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Krobus", "Leo", "Lewis", "Maru", "Penny", "Robin", "Sandy", "Willy"],
+        "Dislike": ["Abigail", "Dwarf", "Haley", "Jas", "Pam", "Vincent", "Wizard"],
+        "Hate": ["Sebastian"]
+	}
+	
+}

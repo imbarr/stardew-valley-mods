@@ -1,0 +1,15 @@
+{
+    "Name": "Large Egg (blue)",
+    "Description": "It's an uncommonly large blue egg!",
+    "Category": "Egg",
+    "Edibility": 15,
+    "Price": 95,
+    "Recipe": null,
+	"GiftTastes": {
+		"Love": [],
+        "Like": ["Alex", "Demetrius", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Pierre", "Sam", "Shane"],
+        "Neutral": ["Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Krobus", "Leo", "Lewis", "Maru", "Penny", "Robin", "Sandy", "Willy"],
+        "Dislike": ["Abigail", "Dwarf", "Haley", "Jas", "Pam", "Vincent", "Wizard"],
+        "Hate": ["Sebastian"]
+	}
+}
